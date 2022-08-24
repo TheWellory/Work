@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Throughput</name>
+   <tag></tag>
+   <elementGuidId>4d036ea0-1f65-4394-933b-4ebdc0afcb25</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='modalDescription']/div[2]/div/div/button[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9aebe88f-ac4f-415a-a94f-6a788729013e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+      Throughput
+      </value>
+      <webElementGuid>46a05a8c-e1d5-46d3-bf19-e19de2c62ac1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modalDescription&quot;)/div[2]/div[@class=&quot;tabbed-unit&quot;]/div[@class=&quot;tabbed-unit__tabs&quot;]/button[2]</value>
+      <webElementGuid>a4ab122a-80df-4930-a31b-3952402b4a29</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='modalDescription']/div[2]/div/div/button[2]</value>
+      <webElementGuid>139ac995-709f-4d36-ab38-741a9bc2e646</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Safety Events'])[1]/following::button[1]</value>
+      <webElementGuid>e6aaf3ab-c64e-4e38-83a5-5d49636ef297</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subscribe'])[1]/following::button[4]</value>
+      <webElementGuid>f8d4dbd7-2241-4172-86f7-070e78e90580</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Environment &amp; Exposure Risks'])[1]/preceding::button[1]</value>
+      <webElementGuid>f9732107-9be5-41a1-81a1-cc2c7b472c0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='People'])[1]/preceding::button[2]</value>
+      <webElementGuid>5dcc0660-36cd-4ead-bc98-2729ca827a99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/button[2]</value>
+      <webElementGuid>8a059d40-1c10-4626-ad2d-e2acc6d0c066</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '
+      Throughput
+      ' or . = '
+      Throughput
+      ')]</value>
+      <webElementGuid>2d442d6d-be22-458b-88e6-45ebc06fd0a5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
